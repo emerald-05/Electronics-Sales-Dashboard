@@ -7,5 +7,11 @@
 * **Customer:** 250
 * **total Cost:** 2.17M
 
+* ## Key visuals
+* **Brand By Profit:** Apple, Lenovo, Samsung, HP, Asus, and Dell.
+* **Income Level By Profit:** Medium, High, and Low.
+* **Monthly Customer & Yearly Revenue:** Trends across January-March and years 2020-2022.
+* **Customer By Purchase:** White, Gray, and Black.
+
   ## How to View
   Download the '.pbix' file and open it in Power BI Desktop.
