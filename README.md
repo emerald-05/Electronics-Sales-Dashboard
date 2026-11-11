@@ -12,6 +12,3 @@
 * **Income Level By Profit:** Medium, High, and Low.
 * **Monthly Customer & Yearly Revenue:** Trends across January-March and years 2020-2022.
 * **Customer By Purchase:** White, Gray, and Black.
-
-  ## Dashboard
-  [View Electronics Sales Dashboard](Electronics%20Sales%20Dashboard.pbix)
